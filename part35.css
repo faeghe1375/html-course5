@@ -1,0 +1,26 @@
+/* body{
+  color: green;
+}
+.second{
+  color: red;
+  border: 2px solid yellow;
+  text-align: center;
+}
+div{
+  border: 2px solid yellow;
+}
+span{
+  border: 2px solid yellow;
+}
+.first{
+  direction: rtl;
+} */
+.top{
+  vertical-align: top;
+}
+.middle{
+  vertical-align: middle;
+}
+.bottom{
+  vertical-align: bottom;
+}

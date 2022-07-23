@@ -1,0 +1,14 @@
+/* div{
+  width: 400px;
+  height: 200px;
+  background-color: lightskyblue;
+  border: solid 3px brown;
+} */
+p{
+  width: 400px;
+  height: 40px;
+border: solid 2px pink;
+/* margin: 10px */
+outline: 2px solid gray;
+outline-offset: 10px;
+}

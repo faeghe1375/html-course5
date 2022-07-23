@@ -1,0 +1,22 @@
+/* p{
+  border: solid 3px gray;
+  background-color: pink;
+  margin: 100px;
+  margin: 100px 200px
+  margin: 50px 100px 150px 200px
+} */
+/* div{
+  border:  3px   solid  gray;
+  width: 200px;
+  margin: auto;
+} */
+.first{
+  border:  3px   solid  gray;
+  width: 200px;
+  margin-bottom: 50px;
+}
+.second{
+  border:  3px   solid  gray;
+  width:200px;
+  margin-top: : 50px;
+}
